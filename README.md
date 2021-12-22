@@ -11,4 +11,4 @@ Facebook: https://www.facebook.com/veniceswap/<br>
 Twitter: https://twitter.com/veniceswap<br>
 Instagram: https://www.instagram.com/veniceswap/<br>
 Telegram Channel: https://t.me/veniceswap<br>
-Telegram Group: Telegram Channel: https://t.me/venice_swap
+Telegram Group: https://t.me/venice_swap
