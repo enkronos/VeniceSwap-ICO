@@ -5,6 +5,7 @@ Venice Swap: Venice Swap owes its name to the extraordinary history of the Most 
 TGE Website: https://ico.veniceswap.com/<br>
 Smart Contract on Etherscan: https://etherscan.io/token/0x92b914f1ddcbb1d117a718e83c9ed7eb32fc44d1<br>
 Company Website: https://veniceswap.com/<br>
+White Paper: https://ico.veniceswap.com/wp-content/uploads/2021/12/VENICE_WP_1.1.pdf<br>
 <br><b>Social Media Presence</b>:<br>
 LinkedIn: https://www.linkedin.com/company/veniceswap<br>
 Facebook: https://www.facebook.com/veniceswap/<br>
