@@ -11,6 +11,7 @@ LinkedIn: https://www.linkedin.com/company/veniceswap<br>
 Facebook: https://www.facebook.com/veniceswap/<br>
 Twitter: https://twitter.com/veniceswap<br>
 Instagram: https://www.instagram.com/veniceswap/<br>
+BitcoinTalk:https://bitcointalk.org/index.php?topic=5379894.0<br>
 Reddit: https://www.reddit.com/r/VeniceSwap/<br>
 Discord: https://discord.gg/kyq6jStatK<br>
 YouTube: https://www.youtube.com/channel/UC3cK_RBP2vyoDMVSgspxrfg<br>
