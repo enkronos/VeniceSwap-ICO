@@ -7,7 +7,7 @@ Smart Contract on Etherscan: https://etherscan.io/token/0xf6d4fbc3b86811df25d829
 Smart Contract on Polygon: 
 https://polygonscan.com/token/0xc4b00DE48c795666c2B0Ad0ED4B9ac7E22Fd10E1<br>
 Company Website: https://veniceswap.com/<br>
-White Paper: https://ico.veniceswap.com/wp-content/uploads/2022/01/VENICE_WP_1.2.pdf<br>
+White Paper: https://ico.veniceswap.com/wp-content/uploads/2022/01/VENICE_WP_1.3.pdf<br>
 <br><b>Social Media Presence</b>:<br>
 LinkedIn: https://www.linkedin.com/company/veniceswap<br>
 Facebook: https://www.facebook.com/veniceswap/<br>
