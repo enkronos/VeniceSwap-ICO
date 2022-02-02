@@ -18,6 +18,6 @@ Medium: https://medium.com/veniceswap<br>
 Reddit: https://www.reddit.com/r/VeniceSwap/<br>
 Discord: https://discord.gg/kyq6jStatK<br>
 Vimeo: https://vimeo.com/user162453979<br>
-YouTube: https://www.youtube.com/channel/UC3cK_RBP2vyoDMVSgspxrfg<br>
+YouTube: https://www.youtube.com/c/VeniceSwap<br>
 Telegram Channel: https://t.me/veniceswap<br>
 Telegram Group: https://t.me/venice_swap
