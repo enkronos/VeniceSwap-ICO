@@ -16,7 +16,7 @@ Instagram: https://www.instagram.com/veniceswap/<br>
 BitcoinTalk:https://bitcointalk.org/index.php?topic=5379894.0<br>
 Medium: https://medium.com/veniceswap<br>
 Reddit: https://www.reddit.com/r/VeniceSwap/<br>
-Discord: https://discord.gg/FcmEsaAp<br>
+Discord: https://discord.gg/f7y7Uq5bUA<br>
 Vimeo: https://vimeo.com/user162453979<br>
 YouTube: https://www.youtube.com/c/VeniceSwap<br>
 Telegram Channel: https://t.me/veniceswap<br>
